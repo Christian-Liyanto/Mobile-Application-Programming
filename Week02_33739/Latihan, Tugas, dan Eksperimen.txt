@@ -1,0 +1,10 @@
+2)	a. Akan terjadi error dikarenakan operand1 dan operand2 tidak memiliki input.
+	   Solusi dapat menggunakan handling exception apabila operand1 atau operand2 tidak memiliki value.
+	b. Terjadi error dikarenakan operand1 tidak dapat dioperasikan dengan operan2.
+	   Solusi dapat menggunakan handling exception apabila operand1 atau operand2 tidak memiliki value.
+	c. output yang dihasilkan adalah infinity.
+	
+3)	Step Over -> Debugger menjalankan baris dimana ia berhenti lalu menuju baris berikutnya dan berhenti sementara juga.
+	Step Into -> Jika pada baris tersebut (dimana ia berhenti) memanggil sebuah method, maka debugger akan masuk kedalam method yang dipanggil.
+	Step Out  -> Debugger akan menyelesaikan sampai ahir dari blok atau ahir dari method dan kembali ke baris semula dimana kita lakukan Step Into.
+	Resume    -> Debugger akan melanjutkan program seperti biasa
