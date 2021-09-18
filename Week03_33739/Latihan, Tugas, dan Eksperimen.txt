@@ -1,0 +1,3 @@
+Kesimpulan dari percobaan yang dilakukan pada saat text ditekan maka
+akan muncul text "pernah diklik" di sebelah test yang ditekan.
+Pada saat melakukan penambahan menggunakan fab akan memunculkan text "[angka terakhir] telah ditambahkan"

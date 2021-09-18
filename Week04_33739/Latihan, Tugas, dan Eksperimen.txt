@@ -1,0 +1,5 @@
+dengan menggunakan intent, activity main memanfaatkan activity ganda untuk memindahkan halaman.
+kedua activity memiliki data yang sama sesuai pasring menggunakan intent
+
+dengan menggunakan fragment, activity dapat main dapat menampilkan kedua activity dengan penggunaan fragment yang berbeda
+fragment sendiri dapat digunakan lebih dari 1x pada activity yang berbeda.
