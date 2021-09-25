@@ -1,0 +1,1 @@
+hasil percobaan yang dilakukan menjelaskan bahwa custom view berfungsi untuk membuat sebuah view custom yang digunakan pada sebuah layout dalam beberapa tempat dengan sendikir modifikasi. Dengan custom view, penambahan fitur interaksi seperti canvas dan paint untuk menggambar.
