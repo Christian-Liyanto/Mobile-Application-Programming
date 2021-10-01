@@ -1,0 +1,8 @@
+Activity A
+ketika layar disentuh/ditekan muncul lingkaran yang semakin lama membesar dan berubah warna hingga kembali mengecil dan berubah warna kembali.
+
+Activity B
+ketika layar disentuh/ditekan muncul animasi gambar kuda sedang berlari.
+
+Activity C
+ketika tombol spring ditekan tombol akan bergerak selayaknya sebuah pegas dan ketika tombol fling ditekan tombol akan berotasi pada sumbu Z.
