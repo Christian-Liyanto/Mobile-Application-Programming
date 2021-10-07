@@ -1,0 +1,5 @@
+Activity A
+aplikasi akan mengaktifkan kamera yang dapat digunakan untuk mengambil serta menampilkan foto dan video yang telah diambil oleh pengguna.
+
+Activity B
+aplikasi menampilkan beberapa video beserta deskripsi dari video tersebut. ketika dipilih tampilan akan menunjukkan detail video. 
