@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChristianLiyanto_00000033739_If570_EL_UTS</string>
+    <string name="sfx_library_and_previewer">SFX Library and Previewer</string>
+    <string name="profile">Profile</string>
+    <string name="library">Library</string>
+    <string name="christian_liyanto">Christian Liyanto</string>
+    <string name="_00000033739">00000033739</string>
+    <string name="if_570_el">IF 570 - EL</string>
+    <string name="referensi">REFERENSI:</string>
+    <string name="link1"><a href="https://stackoverflow.com/questions/2734270/how-to-make-links-in-a-textview-clickable">https://stackoverflow.com/questions/2734270/how-to-make-links-in-a-textview-clickable</a></string>
+    <string name="link2"><a href="https://stackoverflow.com/questions/11562051/change-activitys-theme-programmatically">https://stackoverflow.com/questions/11562051/change-activitys-theme-programmatically</a></string>
+    <string name="link3"><a href="https://codinginflow.com/tutorials/android/options-menu-with-sub-items">https://codinginflow.com/tutorials/android/options-menu-with-sub-items</a></string>
+    <string name="link4"><a href="https://developer.android.com/guide/topics/media/mediaplayer">https://developer.android.com/guide/topics/media/mediaplayer</a></string>
+    <string name="modul_mingguan">Modul Mingguan</string>
+</resources>
